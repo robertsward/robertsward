@@ -1,8 +1,8 @@
 - Hi, I’m @robertsward
-- I’m interested in colorizing photos for genealogy
-- I’m currently learning about GitHub.
-- I’m looking to collaborate on programing GitHub
-- 📫 How to reach me ...
+- I’m interested in
+- I’m currently learning about
+- I’m looking to collaborate on
+- How to reach me ...
 
 <!---
 robertsward/robertsward is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
